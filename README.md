@@ -1,0 +1,1 @@
+# hospital-management-c-mini-project
